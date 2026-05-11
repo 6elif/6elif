@@ -1,6 +1,6 @@
 # ⚡ Hi, I'm 6el1f (Ivo)
 
-I am a 21-year-old **Gameplay Engineer & full-stack Scripter** specialising in Luau and Roblox Studio. I build complex, high-performance game mechanics and document the entire process in public.
+I am a 21-year-old full-time **Gameplay Engineer & full-stack Scripter** specialising in Luau and Roblox Studio. I build complex, high-performance game mechanics and document the entire process in public.
 
 Currently, I'm executing **The Forge Challenge**: a 100-day, high-stakes sprint to completely recreate a top-tier Roblox game from scratch. 
 
