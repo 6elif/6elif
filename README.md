@@ -12,7 +12,7 @@ Currently, I'm executing **The Forge Challenge**: a 100-day, high-stakes sprint 
 
 ### ⚔️ Current Main Quest: The Forge (Day 37/100)
 I am building entirely in glass. You can track my daily progress, check out my architecture, and watch me break (and fix) my game engine in real-time. 
-* 📂 **[View The Forge Repository](Link to your Forge repo here)**
+* 📂 **[View The Forge Repository](TheForgeChallenge)**
 * 🎬 **[Watch the Daily Devlogs](https://www.youtube.com/@6el1f)**
 
 ### 🧠 The OS
