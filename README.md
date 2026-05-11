@@ -1,4 +1,4 @@
-# ⚡ Hi, I'm 6el1f
+# ⚡ Hi, I'm 6el1f (Ivo)
 
 I am a **Gameplay Engineer & full-stack Scripter** specialising in Luau and Roblox Studio. I build complex, high-performance game mechanics and document the entire process in public.
 
@@ -12,7 +12,7 @@ Currently, I'm executing **The Forge Challenge**: a 100-day, high-stakes sprint 
 
 ### ⚔️ Current Main Quest: The Forge (Day 37/100)
 I am building entirely in glass. You can track my daily progress, check out my architecture, and watch me break (and fix) my game engine in real-time. 
-* 📂 **[View The Forge Repository](TheForgeChallenge)**
+* 📂 **[View The Forge Repository](https://github.com/6elif/TheForgeChallenge)**
 * 🎬 **[Watch the Daily Devlogs](https://www.youtube.com/@6el1f)**
 
 ### 🧠 The OS
