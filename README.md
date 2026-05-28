@@ -10,7 +10,7 @@ Currently, I'm executing **The Forge Challenge**: a 100-day, high-stakes sprint 
 - **Workflow:** Rojo, Git/GitHub, Client-Server Architecture
 - **Skills:** Complex Systems, UI/UX Scripting, DataStores, OOP in Luau, Physics
 
-### ⚔️ Current Main Quest: The Forge (Day 42/100)
+### ⚔️ Current Main Quest: The Forge (Day 43/100)
 I am building entirely in glass. You can track my daily progress, check out my architecture, and watch me break (and fix) my game engine in real-time. 
 * 📂 **[View The Forge Repository](https://github.com/6elif/TheForgeChallenge)**
 * 🎬 **[Watch the Daily Devlogs](https://www.youtube.com/@6el1f)**
